@@ -35,15 +35,15 @@ String.toLocaleString({
     '%p128'                 : 'Spearmaster',
     '%p256'                 : 'Artificer',
     '%p512'                 : 'Saint',
-    '%p1024'                : 'choc. sundae',
-    '%p2048'                : 'white choc. peppermint',
+    '%p1024'                : '???',
+    '%p2048'                : 'sigmacat',
     '%p4096'                : '2017 Confetti Vanilla',
     '%p8192'                : 'Rainbow'
 
 	},
 
   "en": {
-    "%game-intro"           : "Join the <strong>Cupcakes!</strong>",
+    "%game-intro"           : "Join the <strong>Scugs!</strong>",
     "%restart-button"       : "Play Again",
     "%keep-playing-button"  : "Keep going",
     "%retry-button"         : "Retry",
@@ -51,7 +51,7 @@ String.toLocaleString({
     "%game-over"            : "Game over!",
     "%game-explanation"     : "<strong class=\"important\">How to play:</strong> Use your <strong>arrow keys</strong> to move the tiles. When two tiles with the same symbol touch, they <strong>get promoted!</strong>",
     "%disclaimer"           : "<strong class=\"important\">Note:</strong> This site <a href=\"http://git.io/cupcakes\">git.io/cupcakes</a> is a spin-off of the official version of <a href=\"http://git.io/2048\">2048</a> created by <a href=\"http://gabrielecirulli.com\" target=\"_blank\">Gabriele Cirulli</a>.",
-    "%credits"              : "Cupcakes images by <a href=\"http://www.georgetowncupcake.com/\" title=\"Georgetown Cupcake | DC Cupcakes | About\">Georgetown Cupcake</a>.",
+    "%credits"              : "Slugcat images can be found in the game files; Rain World & all its characters belong to Akupara Games and Videocult. Please support the original creators and buy this amazing game!",
     "%tweet1"               : "I scored \"",
     "%tweet2"               : " at 2048 SLUGCATS #2048game",
     "%tile-legend"          : "<strong class=\"important\">Tile Legend:</strong>",
