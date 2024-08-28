@@ -13,7 +13,7 @@ $mobile-threshold: $field-width + 20px;
 
 $text-color: #FFF;
 $bright-text-color: #FFF;
-$points-text-color: #3C1B1A;
+$points-text-color: #FFF;
 
 $tile-color: #FFF;
 $tile-gold-color: #582E74;
@@ -53,7 +53,7 @@ html, body {
 
   background-color: #fff;
   color: $text-color;
-  font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
+  font-family: "Rodondo", sans-serif;
   font-size: 18px;
 }
 
