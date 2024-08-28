@@ -9,7 +9,7 @@ String.toLocaleString({
     "%game-over"            : "Game over!",
     "%game-explanation"     : "<strong class=\"important\">How to play:</strong> Use your <strong>arrow keys</strong> to move the tiles. When two tiles with the same symbol touch, they <strong>get promoted!</strong>",
     "%disclaimer"           : "<strong class=\"important\">Note:</strong> This site is a spin-off of the official version of <a href=\"http://git.io/2048\">2048</a> created by <a href=\"http://gabrielecirulli.com\" target=\"_blank\">Gabriele Cirulli</a>.",
-    "%credits"              : "Slugcat images by <a href=\"http://www.georgetowncupcake.com/\" title=\"Georgetown Cupcake | DC Cupcakes | About\">Georgetown Cupcake</a>.",
+    "%credits"              : "Slugcat images can be found in the game files; Rain World and all its characters belong to Akupara Games and Videocult. Please buy the original game and support the creators!",
     "%tweet1"               : "I scored \"",
     "%tweet2"               : " at 2048 SLUGCATS #2048game",
     "%tile-legend"          : "<strong class=\"important\">Tile Legend:</strong>",
