@@ -66,8 +66,8 @@ String.toLocaleString({
     '%512'                  : 'The Saint',
     '%1024'                 : '???',
     '%2048'                 : 'sigmacat',
-    '%4096'                 : '2017 Confetti Vanilla',
-    '%8192'                 : 'Rainbow',
+    '%4096'                 : 'Slugpup',
+    '%8192'                 : 'ASCENSION!!!',
     '%p0'                   : 'The Monk',
     '%p4'                   : 'The Survivor',
     '%p8'                   : 'The Watcher',
@@ -79,8 +79,8 @@ String.toLocaleString({
     '%p512'                 : 'The Saint',
     '%p1024'                : '???',
     '%p2048'                : 'Sigmacat',
-    '%p4096'                : '2017 Confetti Vanilla',
-    '%p8192'                : 'Rainbow'
+    '%p4096'                : 'Slugpup',
+    '%p8192'                : 'ASCENSION!!!'
   }
 
 });
