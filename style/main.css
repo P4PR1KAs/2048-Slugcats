@@ -89,7 +89,7 @@ h1.title {
     font-size: 13px;
     line-height: 13px;
     text-align: center;
-    color: #3c1b1a; }
+    color: #white; }
   .score-container .score-addition, .best-container .score-addition,
 	.score-points .score-addition, .best-points .score-addition {
     position: absolute;
