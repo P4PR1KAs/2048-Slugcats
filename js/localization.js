@@ -50,7 +50,7 @@ String.toLocaleString({
     "%game-won"             : "You win!",
     "%game-over"            : "Game over!",
     "%game-explanation"     : "<strong class=\"important\">How to play:</strong> Use your <strong>arrow keys</strong> to move the tiles. When two tiles with the same symbol touch, they <strong>get promoted!</strong>",
-    "%disclaimer"           : "<strong class=\"important\">Note:</strong> This site <a href=\"http://git.io/cupcakes\">git.io/cupcakes</a> is a spin-off of the official version of <a href=\"http://git.io/2048\">2048</a> created by <a href=\"http://gabrielecirulli.com\" target=\"_blank\">Gabriele Cirulli</a>.",
+    "%disclaimer"           : "<strong class=\"important\">Note:</strong> This site <a href=\"https://p4pr1kas.github.io/2048-Slugcats/<a> is a spin-off of the official version of <a href=\"http://git.io/2048\">2048</a> created by <a href=\"http://gabrielecirulli.com\" target=\"_blank\">Gabriele Cirulli</a>.",
     "%credits"              : "Slugcat images can be found in the game files; Rain World & all its characters belong to Akupara Games and Videocult. Please support the original creators and buy this amazing game!",
     "%tweet1"               : "I scored \"",
     "%tweet2"               : " at 2048 SLUGCATS #2048game",
